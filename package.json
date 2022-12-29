@@ -1,6 +1,6 @@
 {
   "name": "git-secure-tag",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "Git tags with higher level of security",
   "main": "lib/git-secure-tag.js",
   "bin": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/indutny/git-secure-tag.git"
+    "url": "git+ssh://git@github.com/syonfox/git-secure-tag.git"
   },
   "keywords": [
     "git",
@@ -28,9 +28,9 @@
   "author": "Fedor Indutny <fedor@indutny.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/indutny/git-secure-tag/issues"
+    "url": "https://github.com/syonfox/git-secure-tag/issues"
   },
-  "homepage": "https://github.com/indutny/git-secure-tag#readme",
+  "homepage": "https://github.com/syonfox/git-secure-tag#readme",
   "dependencies": {
     "async": "^2.0.0-rc.6",
     "yargs": "^4.7.1"
