@@ -1,6 +1,11 @@
-# git-secure-tag
+# git-secure-tag 
+## syonfox fork thanks for the cool stuff
+
 [![NPM version](https://badge.fury.io/js/git-secure-tag.svg)](http://badge.fury.io/js/git-secure-tag)
 [![Build Status](https://secure.travis-ci.org/indutny/git-secure-tag.svg)](http://travis-ci.org/indutny/git-secure-tag)
+^^ origninal 
+
+`npm install git+https://github.com/syonfox/git-secure-tag.git`
 
 ## Why?
 
